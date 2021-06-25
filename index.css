@@ -41,6 +41,7 @@ ul {
 section {
   width: 100%;
   height: 600px;
-  background-size: cover;
-  background-image: url("images/iphone_12_updated__jepm2xpxncuy_large.jpg");
+  background-size: 100% 700px;
+  background-position: center -100px;
+  background-image: url("images/iphone_12_updated__jepm2xpxncuy_mediumtall_2x.jpeg");
 }
